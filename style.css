@@ -1,0 +1,245 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+.top {
+    max-width: 100%;
+    height: 80px;
+    background-color:#f5f0e7;
+    display: block;
+}
+.op img{
+    width: 96px;
+    height: 31px;
+    padding-top: 28px;
+    padding-left: 85px;
+    background-color:#f5f0e7;
+}
+
+.op1 {
+text-align: center;
+
+}
+.op1 ul{
+    width: 600px;
+    margin: 0 auto;
+    display: flex;
+    padding-bottom: 28px;
+  }
+  .op1 li{
+    width: 100px;
+    text-align: center;
+   
+  
+  }
+  .op1 li a{
+    display: block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: none;
+    color:#707070;
+     
+  }
+  .op2{
+    width: 600px;
+    margin: 0 auto;
+    display: flex;
+  }
+  .op2 li{
+    width: 100px;
+    text-align: center;
+    border: 1px solid #000;
+  
+  }
+  .op2 li a{
+    display: block; 
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: none;
+    color:#707070;  
+  }
+  
+  h1{
+    text-align: center;
+    color:#907a7b;
+    padding-top: 64px;
+    padding-bottom: 20px;
+    font-size: 28px;
+    font-weight:bolder;
+  }
+.body{
+    display: flex;
+    justify-content: space-around
+}
+  .body img{
+  
+    width: 729px;
+    height: 350px;
+    border-radius: 10px;
+ 
+  }
+  .bo1{
+    background-color:#f5f0e7 ;
+    
+        width:350px;
+        height:350px;
+        line-height:20px;
+        border-radius: 10px;
+        padding: 10px;
+      
+  }
+  .bo1 h2{
+   display: block;
+   color:#907a7b;
+  font-size: 20px;
+  text-align: left;
+  }
+  p{
+    display: block;
+    color:#907a7b;
+    font-size: 16px;
+   }
+   .bo1 p1{
+    display: block;
+    color:#907a7b;
+    font-size: 18px;
+   }
+   .body2{
+padding-top: 24px;
+padding-left: 200px;
+   }
+   .body2 img{
+  
+    width: 350px;
+    height: 350px;
+    border-radius: 10px;
+  }
+  .body3{
+    padding-top: 24px;
+    padding-left: 200px;
+    padding-bottom: 40px;
+       }
+.body3 img{
+      
+        width: 350px;
+        height: 350px;
+        border-radius: 10px;   
+      }
+.body4{
+ max-width: 100%;
+    height: auto;
+    background-color:#f5f0e7  ;
+    padding: 20px;
+}
+h3{
+    display: block;
+    color:#907a7b;
+   font-size: 20px;
+   font-weight:bolder;
+ 
+   }
+   .ph1 img{
+      
+    width: 350px;
+    height: 350px;
+    border-radius: 10px;   
+  }
+  .body5{
+    max-width: 100%;
+  height: 350px;
+  background-color:#907a7b ;
+} 
+h4{
+    text-align: left;
+    color:white;
+    padding-top: 64px;
+    padding-bottom: 20px;
+    padding-left: 85px;
+    font-size: 28px;
+    font-weight:bolder;
+  }
+  .oi img{
+    width: 96px;
+    height: 31px;
+    padding-top: 28px;
+    padding-left: 85px;
+
+}
+
+.op19{
+    padding-top: 28px;
+    padding-left: 85px;
+
+}
+      
+
+    .op19 ul{
+        width: 600px;
+     height: auto;
+        padding-bottom: 28px;
+      }
+      .op19 li{
+        width: 100px;}
+      .op19 li a{
+   
+        padding-top: 10px;
+        padding-bottom: 10px;
+        text-decoration: none;
+        color:#ffffff;
+         
+      }
+
+      p2{
+        color: #fff;;
+        font-size: 16px;
+        text-align: center;
+      padding-left: 350px;
+       }
+       .body4{
+        display:flex;
+        justify-content: space-around
+       }
